@@ -1,16 +1,13 @@
-# Contexto de tu empresa
+# Contexto de HealthCore
 
-**Sustituye este archivo** por el CONTEXT de la empresa que te hayan asignado:
+## Empresa
 
-- **Brasaland** — `CONTEXT-brasaland-briefing.md` (cadena de restaurantes de comida a la parrilla, Colombia + Florida)
-- **TrackFlow** — `CONTEXT-trackflow-briefing.md` (última milla y almacén, México + España)
-- **Nexova** — `CONTEXT-nexova-briefing.md` (consultoría de RR. HH. y adquisición de talento, Chile + Argentina)
-- **HealthCore** — red de seis clínicas ambulatorias en EE.UU. (Texas, Florida y Georgia)
+HealthCore es una empresa de atención médica ambulatoria fundada en 2011 en Austin, Texas. Opera 12 clínicas: nueve en Estados Unidos (Texas, Florida y Georgia) y tres en el Reino Unido (Londres y Manchester). Ofrece atención primaria, consultas especializadas, manejo de enfermedades crónicas y programas de salud preventiva. Cuenta con aproximadamente 200 empleados y genera alrededor de 28 millones de dólares en ingresos anuales. Sus fortalezas son las citas el mismo día, los horarios extendidos y el personal bilingüe en sus ubicaciones de EE. UU.
 
-Tu instructor o los materiales del hito te indicarán el archivo CONTEXT correcto. Copia aquí su contenido para que todo el trabajo del proyecto y la asistencia de IA usen los mismos datos de dominio, nombres de campos y restricciones.
+## Alcance del sitio público
 
----
+Para este hito, el sitio público presenta las seis clínicas estadounidenses especificadas en el directorio aprobado. No se deben mostrar las clínicas ni las ubicaciones del Reino Unido en la página pública. El teléfono de Londres indicado en la sección de contacto es la única excepción permitida.
 
-_Hasta que añadas tu contexto, mantén este placeholder para que la estructura del repositorio quede clara._
+El sitio debe estar disponible en inglés y español. El formulario recopila consultas de pacientes para que el personal de recepción pueda hacer seguimiento; no reserva citas y, en esta demostración, no debe transmitir ni almacenar datos enviados.
 
-_These instructions are also available in [English](./CONTEXT.md)._
+Consulta [el contexto del hito en inglés](./CONTEXT.md) y el [resumen local del Hito 1](./CONTEXT-healthcore-milestone1.md) para conocer los servicios, las seis clínicas, los campos y las validaciones aprobados.
